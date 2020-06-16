@@ -13,5 +13,7 @@ To view the demonstration video: https://drive.google.com/file/d/1L4woxJt7jZI4jy
 
 To view the application: https://life-expectancy123.eu-gb.mybluemix.net/ui/#!/0?socketid=sitCayWtmIRedRTEAAAN
 
+To view the feedback video: https://drive.google.com/file/d/1kYYDHx0gicV6WHwSZhtrfbc5wBM59SFu/view?usp=sharing
+
 Email ID: harini.ramesh17@gmail.com
 
